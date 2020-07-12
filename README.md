@@ -27,13 +27,14 @@ Follow the steps below to run the project on your local dev environment.
 These endpoints allow you to signup, login, call_api, and see_remaining_limits
 
 ### Interaction with Postman
-`http://127.0.0.1:5000/signup`
+1. `http://127.0.0.1:5000/signup`
 ![](screenshot/signup.PNG)
-`http://127.0.0.1:5000/login`
+2. `http://127.0.0.1:5000/login`
 ![](screenshot/login.PNG)
-`http://127.0.0.1:5000/call_api`
-![](screenshot/call_api.PNG)
-`http://127.0.0.1:5000/see_remaining_limits`
+3. `http://127.0.0.1:5000/call_api`
+![](screenshot/call_api1.PNG)
+![](screenshot/call_api2.PNG)
+4. `http://127.0.0.1:5000/see_remaining_limits`
 ![](screenshot/see_remaining_limits.PNG)
-`http://127.0.0.1:5000/`
+5. `http://127.0.0.1:5000/`
 ![](screenshot/1.PNG)
