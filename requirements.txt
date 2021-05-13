@@ -22,7 +22,7 @@ limits==1.5.1
 MarkupSafe==1.1.1
 orjson==3.2.1
 promise==2.3
-pydantic==1.5.1
+pydantic==1.6.2
 PyJWT==1.7.1
 python-multipart==0.0.5
 PyYAML==5.3.1
